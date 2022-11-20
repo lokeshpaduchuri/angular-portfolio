@@ -14,9 +14,8 @@ export class ImageService {
   public getS3Bucket(): any {
     const bucket = new S3(
       {
-        accessKeyId: 'AKIA454CMKD2HRYBBDQC',
-        secretAccessKey: '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',
-        region: 'us-east-1'
+        //Add keys when needed
+        
       }
     );
 
