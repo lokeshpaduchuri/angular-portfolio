@@ -1,0 +1,17 @@
+.parent-container{
+    display: flex;
+    flex-direction: column;
+    margin: 30px auto;
+}
+.categories-container{
+    display: flex;
+    flex-direction: row;
+    height: 30%;
+    margin: auto;
+}
+
+.category{
+    height: 500px;
+    width: 300px;
+
+}
